@@ -39,7 +39,7 @@ k=(-N-97) mod l <br>
 Далі, будується геш-функція, з використанням наступного ітеративного алгоритму.
 
 <p align="center">
-  <img src="/Users/danial/Documents/git/kupyna/img/1.png" width="350">
+  <img src="/img/1.png" width="350">
 </p>
 
 де
@@ -56,7 +56,7 @@ R_{l,n}(X) — функція, яка повертає n найбільш зна
 ### Перестановки T⊕ і T+
 
 <p align="center">
-  <img src="/Users/danial/Documents/git/kupyna/img/2.png" width="350">
+  <img src="/img/2.png" width="350">
 </p>
 
 * Ці перетворення керують станом, представленим матрицею G, яка містить у кожній комірці 1 байт інформації. 
