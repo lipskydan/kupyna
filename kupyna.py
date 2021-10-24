@@ -245,4 +245,4 @@ class Kupyna:
 kupyna = Kupyna(256)
 hash = kupyna.hash('000102030405060708090A0B0C0D0E0F101112131415161718191A1B1C1D1E1F')
 
-print(hash)
+# print(hash)
